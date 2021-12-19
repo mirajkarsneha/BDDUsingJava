@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-17T20:16:08" hostname="Rishikeshs-MacBook-Air.local" time="0.047">
+  <properties/>
+  <testcase name="shouldNotBorrowMoreThanTwoBooksFromLibrary()" classname="LibraryServiceTest" time="0.038"/>
+  <testcase name="shouldReturnABookToLibrary()" classname="LibraryServiceTest" time="0.002"/>
+  <testcase name="shouldBorrowABookFromLibrary()" classname="LibraryServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
